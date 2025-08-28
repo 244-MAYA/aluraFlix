@@ -1,11 +1,14 @@
 body {
-background-color: rgba(107, 8, 8, 0.918);
-
-color: rgb(238, 228, 228);
-
+    color: ghostwhite;
+    background-color: darkred;
+    margin: 0px;
+    font-family:"Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
 
-h1{
-color: rgba(255, 255, 255);
-
+header {
+    border-bottom: solid 2px rgb(209, 95,91);
+    padding-bottom: solid 2px;
+    font-size: 32px;
+    color: rgb(209, 95,91);
 }
